@@ -1,0 +1,31 @@
+D:\Uni\7th semesster\c#\project\Quiz Management\bin\Debug\Quiz Management.exe.config
+D:\Uni\7th semesster\c#\project\Quiz Management\bin\Debug\Quiz Management.exe
+D:\Uni\7th semesster\c#\project\Quiz Management\bin\Debug\Quiz Management.pdb
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz Management.csproj.AssemblyReference.cache
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz_Management.Form1.resources
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz_Management.Properties.Resources.resources
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz Management.csproj.GenerateResource.cache
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz Management.csproj.CoreCompileInputs.cache
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz Management.exe
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz Management.pdb
+D:\Uni\7th semesster\c#\project\Quiz Management\bin\Debug\Guna.UI2.dll
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz Management.csproj.CopyComplete
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz_Management.Teacher.resources
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.Uc_Add_new_question.resources
+D:\Uni\7th semesster\c#\project\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.UC_AddnewQuestions.resources
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Management.csproj.AssemblyReference.cache
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Management.exe.config
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Management.exe
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Management.pdb
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\bin\Debug\Quiz Management.exe.config
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\bin\Debug\Quiz Management.exe
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\bin\Debug\Quiz Management.pdb
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\bin\Debug\Guna.UI2.dll
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz_Management.Form1.resources
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz_Management.Properties.Resources.resources
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz_Management.Teacher.resources
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.Uc_Add_new_question.resources
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.UC_AddnewQuestions.resources
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Management.csproj.GenerateResource.cache
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Management.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Final\Project\push\Quiz Managemen part 2\Quiz Management\obj\Debug\Quiz Man.88387D07.Up2Date
